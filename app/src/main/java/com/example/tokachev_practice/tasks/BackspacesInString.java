@@ -1,4 +1,4 @@
-package com.example.tokachev_practice;
+package com.example.tokachev_practice.tasks;
 
 // Task 3
 /*https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/solutions/java*/
